@@ -74,7 +74,7 @@ Das ist ein Text mit einer Fußnote.[^1]
 ~~Dieser Text ist durchgestrichen.~~
 
 
-<mark style="background-color: #FFFF00">Dieser Text ist hervorgehoben.</mark>
+<span style="background-color: #FFFF00">Dieser Text ist hervorgehoben.</span>
 
 
 Hochgestellt: 2<sup>3</sup>
