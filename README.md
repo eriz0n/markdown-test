@@ -34,6 +34,8 @@ __Das ist fetter Text__
     - Unterpunkt 2.1
     - Unterpunkt 2.2
 * Punkt 3
+1. Punkt 1
+2. Punkt 2
 
 
 [Beispiel Link](https://www.example.com)
